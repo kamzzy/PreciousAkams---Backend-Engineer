@@ -1,0 +1,17 @@
+{
+  "name": "precious_akams_backend_engineer",
+  "version": "1.0.0",
+  "description": "event management",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Precious Akams",
+  "license": "ISC",
+  "dependencies": {
+    "@handlebars/allow-prototype-access": "^1.0.5",
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.4"
+  }
+}
