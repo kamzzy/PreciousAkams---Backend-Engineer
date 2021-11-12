@@ -1,13 +1,13 @@
 {
   "development": {
-    "username": "null",
+    "username": "user",
     "password": null,
     "database": "eventDB",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "test": {
-    "username": "null",
+    "username": "user",
     "password": null,
     "database": "eventDB_test",
     "host": "127.0.0.1",
